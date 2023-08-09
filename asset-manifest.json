@@ -1,15 +1,13 @@
 {
   "files": {
-    "main.css": "/JakeFernandez-React-Project-CoderHouse/static/css/main.244e02a7.css",
-    "main.js": "/JakeFernandez-React-Project-CoderHouse/static/js/main.33a3f10e.js",
-    "static/js/787.fbbcbf9e.chunk.js": "/JakeFernandez-React-Project-CoderHouse/static/js/787.fbbcbf9e.chunk.js",
+    "main.css": "/JakeFernandez-React-Project-CoderHouse/static/css/main.8445e7dd.css",
+    "main.js": "/JakeFernandez-React-Project-CoderHouse/static/js/main.77b9d480.js",
     "index.html": "/JakeFernandez-React-Project-CoderHouse/index.html",
-    "main.244e02a7.css.map": "/JakeFernandez-React-Project-CoderHouse/static/css/main.244e02a7.css.map",
-    "main.33a3f10e.js.map": "/JakeFernandez-React-Project-CoderHouse/static/js/main.33a3f10e.js.map",
-    "787.fbbcbf9e.chunk.js.map": "/JakeFernandez-React-Project-CoderHouse/static/js/787.fbbcbf9e.chunk.js.map"
+    "main.8445e7dd.css.map": "/JakeFernandez-React-Project-CoderHouse/static/css/main.8445e7dd.css.map",
+    "main.77b9d480.js.map": "/JakeFernandez-React-Project-CoderHouse/static/js/main.77b9d480.js.map"
   },
   "entrypoints": [
-    "static/css/main.244e02a7.css",
-    "static/js/main.33a3f10e.js"
+    "static/css/main.8445e7dd.css",
+    "static/js/main.77b9d480.js"
   ]
 }
