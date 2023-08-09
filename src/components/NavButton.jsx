@@ -14,9 +14,11 @@ const NavButton = ({option}) => {
             option ==='Categories' && isActive &&
             <div className={'transition-all duration-300 ease flex flex-col gap-3'}>
             {' '}
-                <li className='transition-all duration-300  ease uppercase text-xl font-bold pl-5 hover:bg-cyan-300'><a href="#">Sport</a></li>
-                <li className='transition-all duration-300  ease uppercase text-xl font-bold pl-5 hover:bg-cyan-300'><a href="#">Casual</a></li>
-                <li className='transition-all duration-300  ease uppercase text-xl font-bold pl-5 hover:bg-cyan-300'><a href="#">Sneaker</a></li>
+                <ul>
+                    <li className='transition-all duration-300  ease uppercase text-xl font-bold pl-5 hover:bg-cyan-300'><a href="#">Sport</a></li>
+                    <li className='transition-all duration-300  ease uppercase text-xl font-bold pl-5 hover:bg-cyan-300'><a href="#">Casual</a></li>
+                    <li className='transition-all duration-300  ease uppercase text-xl font-bold pl-5 hover:bg-cyan-300'><a href="#">Sneaker</a></li>
+                </ul>
             </div> 
         }
     </li>
