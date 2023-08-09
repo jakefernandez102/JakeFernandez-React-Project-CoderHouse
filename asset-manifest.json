@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/JakeFernandez-React-Project-CoderHouse/static/css/main.e19f782f.css",
-    "main.js": "/JakeFernandez-React-Project-CoderHouse/static/js/main.762be239.js",
+    "main.js": "/JakeFernandez-React-Project-CoderHouse/static/js/main.b404dfdf.js",
     "index.html": "/JakeFernandez-React-Project-CoderHouse/index.html",
     "main.e19f782f.css.map": "/JakeFernandez-React-Project-CoderHouse/static/css/main.e19f782f.css.map",
-    "main.762be239.js.map": "/JakeFernandez-React-Project-CoderHouse/static/js/main.762be239.js.map"
+    "main.b404dfdf.js.map": "/JakeFernandez-React-Project-CoderHouse/static/js/main.b404dfdf.js.map"
   },
   "entrypoints": [
     "static/css/main.e19f782f.css",
-    "static/js/main.762be239.js"
+    "static/js/main.b404dfdf.js"
   ]
 }
